@@ -1,0 +1,5 @@
+outlook.office365.com/owa/?realm=gemalto.com
+go.gemalto.com
+gohr.gemalto.com
+absmfgvlp01.gemalto.com
+gemshare.gemalto.com/sites/iss/SitePages/hp.aspx
