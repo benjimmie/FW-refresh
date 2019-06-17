@@ -7,7 +7,7 @@
 >reads from applist.txt
 
 **ping-applist.bat**
->reads from applist.txt
+>reads from pinglist.txt
 
 Dir Structure
 ```
