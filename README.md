@@ -23,6 +23,6 @@ Dir Structure
 |   |-- regex2.dll           #searches for and matches text strings
 |   `-- tee.exe              #sends output to multiple files
 `-- portqry.exe              #tool to query ports
-|-- portqry-serverports.bat  #batch file for calling iperf3 download parameters and manipulating the output via gnuwin grep & tee
+`-- portqry-serverports.bat  #batch file for calling iperf3 download parameters and manipulating the output via gnuwin grep & tee
 `-- ping-applist.bat         #batch file for pinging IPs listed in applist.txt
 ```
