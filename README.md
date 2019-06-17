@@ -25,5 +25,6 @@ Dir Structure
 |-- portqry.exe              #tool to query ports
 |-- portqry-serverports.bat  #batch file for calling portqry and manipulating the output via gnuwin grep & tee
 |-- ping-applist.bat         #batch file for pinging IPs listed in applist.txt
+|-- pinglist.txt             #list of IPs to ping for testing
 |-- serverports.txt          #list of IPs to portqry listed for testing
 ```
